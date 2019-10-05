@@ -1,0 +1,41 @@
+img{
+    border-radius: 45px;
+    margin-top: 35px;
+    margin-left: 10px;
+    margin-bottom: 35px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.3), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    
+}
+.thumnail{
+    text-align: right;
+}
+
+body{
+    background-color: #0099ff;
+}
+.container{
+    border-radius: 15px;
+    text-align: center;
+    margin: 50px auto 0 auto ;
+    background-color: #f5f5f5;
+}
+
+h2,h3,p {    
+    font-family: 'Roboto', sans-serif;
+    text-align: left;
+}
+h2{
+    font-size: 30px;
+}
+h3{
+    font-size: 40px;
+}
+.Icons{
+    padding-top: 50px;
+    text-align: left;
+}
+.Information{   
+    margin-top: 35px;
+    padding-left: 80px;
+
+}
